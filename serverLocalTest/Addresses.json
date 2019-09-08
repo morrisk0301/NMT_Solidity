@@ -1,0 +1,12 @@
+{
+  "defaultAddress": "0x651a737139a38d2615f3f7ca10c6bf7cf9d73998",
+  "serverAddress": "0x4c73182a89521ef53fc77ce82b86ca10736803c5",
+  "sellerAddress": "0x0c2773db7bac2dc7cea3be29196bd859517e3672",
+  "buyerAddress": "0x991876ba0f4b97ddcbf73aecc2880fc9732e3367",
+  "verifierAddress1": "0xbb4a99a561460155f460bb0b8d8a79f12a8d898b",
+  "verifierAddress2": "0x3d480ef3675a8e6186c4927a6e92d5f5c1726ca9",
+  "verifierAddress3": "0xE084ff7c68A786CA83F24cDd330D71E39547f63F",
+  "verifierAddress4" : "0x1544706D8eb427701aCbF52ac1E95fd2Dfaa60d1",
+  "undef1" : "0xcE7455614A7ea01459183c49869B8A13Ab6C0235",
+  "undef2" : "0x329720791E8f94385B11076BE553f41395950AD6"
+}
